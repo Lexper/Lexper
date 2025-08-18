@@ -50,5 +50,5 @@
 ### 📊 İstatistiklerim
 
 <p align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lexper&show_icons=true&locale=en&layout=compact" alt="lexper" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=babakalite31&show_icons=true&locale=en&layout=compact" alt="babakalite31" />
 </p>
