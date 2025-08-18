@@ -52,5 +52,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lexper&show_icons=true&locale=tr&layout=compact" alt="En çok kullandığım diller" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lexper&show_icons=true&locale=tr&layout=compact" alt="lexper" />
 </p>
