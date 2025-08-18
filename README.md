@@ -1,4 +1,4 @@
-![MasterHead]([https://cdn.discordapp.com/attachments/857714065710776320/1386766005447032954/45e633adba3369529c787fc171ee5d6e.png?ex=6862cefc&is=68617d7c&hm=a0dbeb7d585caf5d8ffbc398615aa97a56b560053322675b8f9192578dce83a3&](https://i.pinimg.com/originals/83/17/7e/83177eace643e8d6b6e5e257bafb43d7.gif))
+![MasterHead](https://i.pinimg.com/originals/83/17/7e/83177eace643e8d6b6e5e257bafb43d7.gif))
 <h1 align="center">Merhaba 👋, Ben Lexper</h1>
 <h3 align="center">Basic Code Developer</h3>
 
