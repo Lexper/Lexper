@@ -50,5 +50,5 @@
 ### 📊 İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lexper&show_icons=true&locale=tr&layout=compact" alt="En çok kullandığım diller" />
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lexper&show_icons=true&locale=en&layout=compact" alt="lexper" /></p>
 </p>
