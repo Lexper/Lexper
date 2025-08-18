@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-<div class="d-flex flex-wrap gap-3 align-items-center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -50,7 +49,6 @@
   <a href="https://cpanel.net/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/C/cpanel-logo-4378DA1F49-seeklogo.com.png" alt="cPanel" width="40" height="40"/>
   </a>
-</div>
 </p>
 
 <p align="center">
