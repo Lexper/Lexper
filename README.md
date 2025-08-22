@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="https://discord.com/users/DiscordID" target="_blank">
+  <a href="https://discord.com/users/466770620433039360" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
   </a>
 </p>
